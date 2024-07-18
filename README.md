@@ -5,7 +5,7 @@
 
 ## Introdução
 Este projeto implementa um chat ao vivo utilizando WebSockets. A aplicação é composta por um servidor Node.js com Express e Socket.IO para comunicação em tempo real, e uma interface front-end simples em HTML, CSS e JavaScript.
-    - WebSocket é um protocolo de comunicação que permite a troca de dados em tempo real entre o cliente (como um navegador web) e o servidor. Diferente do protocolo HTTP, onde as comunicações são iniciadas pelo cliente, o WebSocket permite uma comunicação bidirecional persistente. Isso significa que, uma vez estabelecida a conexão, tanto o cliente quanto o servidor podem enviar dados a qualquer momento sem a necessidade de reestabelecer a conexão. Essa característica torna o WebSocket ideal para aplicações que requerem atualização constante e em tempo real, como chat ao vivo, jogos online, e sistemas de trading.
+- WebSocket é um protocolo de comunicação que permite a troca de dados em tempo real entre o cliente (como um navegador web) e o servidor. Diferente do protocolo HTTP, onde as comunicações são iniciadas pelo cliente, o WebSocket permite uma comunicação bidirecional persistente. Isso significa que, uma vez estabelecida a conexão, tanto o cliente quanto o servidor podem enviar dados a qualquer momento sem a necessidade de reestabelecer a conexão. Essa característica torna o WebSocket ideal para aplicações que requerem atualização constante e em tempo real, como chat ao vivo, jogos online, e sistemas de trading.
 
 
 ## Estrutura do Projeto
