@@ -1,7 +1,7 @@
 # Documentação do Projeto de Chat ao Vivo usando WebSocket
 
-## Autor: Matheus Augusto Ferreira Medeiros
-## Linguagem de programação usada: Javascript
+### Autor: Matheus Augusto Ferreira Medeiros
+### Linguagem de programação usada: Javascript
 
 ## Introdução
 Este projeto implementa um chat ao vivo utilizando WebSockets. A aplicação é composta por um servidor Node.js com Express e Socket.IO para comunicação em tempo real, e uma interface front-end simples em HTML, CSS e JavaScript.
