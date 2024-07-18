@@ -69,13 +69,13 @@ Script JavaScript que gerencia a lógica do cliente, incluindo:
 
 ### Funcionalidades Principais
 - **Entrar no Chat**: O usuário insere um nome e se junta ao chat.
-- ![image](https://github.com/user-attachments/assets/564bc5f8-10e6-4700-a6df-dca26bd78977)
+![image](https://github.com/user-attachments/assets/564bc5f8-10e6-4700-a6df-dca26bd78977)
 - **Enviar Mensagens**: O usuário envia mensagens que são exibidas em tempo real para todos os participantes do chat.
-- ![image](https://github.com/user-attachments/assets/cd7a06b2-5d8b-4b61-9482-619a990d7e50)
-- **Receber Mensagens**: O cliente escuta novas mensagens do servidor e as exibe na interface.
 ![image](https://github.com/user-attachments/assets/cd7a06b2-5d8b-4b61-9482-619a990d7e50)
 ![image](https://github.com/user-attachments/assets/5e536962-dbbf-4882-bb7b-fa7f8e6fcecb)
+- **Receber Mensagens**: O cliente escuta novas mensagens do servidor e as exibe na interface.
 ![image](https://github.com/user-attachments/assets/c700f990-ee2e-453d-b4b5-64f585b6a1ea)
+
 ![image](https://github.com/user-attachments/assets/7c223f78-2512-4079-9c5f-6f5703eded47)
 ![image](https://github.com/user-attachments/assets/a0a5a4f9-9d33-438a-8754-0af647668906)
 
