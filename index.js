@@ -12,8 +12,8 @@ const APP_URL = process.env.URL || `http://localhost:${APP_PORT}`
 
 app.use(express.static(path.join(__dirname, 'view')))
 
-const usersConnected = []
-const sockesConnected = []
+let usersConnected = []
+let sockesConnected = []
 
 app.get('/', (req, res) => {
     res.sendFile(__dirname + '/view/index.html')
